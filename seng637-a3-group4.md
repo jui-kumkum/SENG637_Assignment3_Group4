@@ -26,7 +26,7 @@ Text…
 
 # 4 A high level description of five selected test cases you have designed using coverage information, and how they have increased code coverage
 
-2. RangeTest.RangeExpandToinclude()
+3. RangeTest.RangeExpandToinclude()
 Before adding the test case RangeTest.expandToinclude(), the coverage calculated using EclEmma was:
 
 | Counter | Coverage |
@@ -46,8 +46,11 @@ With the addition of new test cases,
 	
 
 # 5 A detailed report of the coverage achieved of each class and method (a screen shot from the code cover results in green and red color would suffice)
+3. ExpandToInclude Statement coverage from Range Class before:
 ![Alt text](https://github.com/jui-kumkum/SENG637_Assignment3_Group4/blob/main/Images/ExpandToincludeBeforeCoverage.png)
+ExpandToInclude Statement coverage from Range Class After changing test cases:
 ![Alt text](https://github.com/jui-kumkum/SENG637_Assignment3_Group4/blob/main/Images/expandToincludeAfterCoverageCondition.png)
+ExpandToInclude Condition coverage from Range Class After changing test cases:
 ![Alt text](https://github.com/jui-kumkum/SENG637_Assignment3_Group4/blob/main/Images/expandToincludeAfterCoverageStatement.png)
 
 # 6 Pros and Cons of coverage tools used and Metrics you report
