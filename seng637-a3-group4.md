@@ -28,6 +28,7 @@ Text…
 
 2. RangeTest.RangeExpandToinclude()
 Before adding the test case RangeTest.expandToinclude(), the coverage calculated using EclEmma was:
+
 | Counter | Coverage |
 |----------|----------|
 | Instructions/statement coverage   | 85.3%   |
