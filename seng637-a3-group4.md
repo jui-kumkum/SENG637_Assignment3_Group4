@@ -28,10 +28,11 @@ Text…
 
 2. RangeTest.RangeExpandToinclude()
 Before adding the test case RangeTest.expandToinclude(), the coverage calculated using EclEmma was:
-| Counter  | Coverage |
+| Counter | Coverage |
 |----------|----------|
 | Instructions/statement coverage   | 85.3%   |
 | Methods/Condition   | 100%   |
+
 As we don't have any branch in ExpandToinclude class, so we don't have branch percentage.
 The minimum requirement of condition coverage was already met, however 90% statementnt coverage was not met.
 
