@@ -27,20 +27,20 @@ Text…
 # 4 A high level description of five selected test cases you have designed using coverage information, and how they have increased code coverage
 
 2. RangeTest.RangeExpandToinclude()
-Before adding the test case RangeTest.expandToIncludeWithNullRange(), the coverage calculated using EclEmma was:
-Instructions/statement coverage	85.3 %
-Methods/Condition	100.0%
+Before adding the test case RangeTest.expandToinclude(), the coverage calculated using EclEmma was:
+| Counter | Coverage |
+|----------|----------|
+| Instructions/statement coverage   | 85.3%   |
+| Methods/Condition   | 100%   |
 As we don't have any branch in ExpandToinclude class, so we don't have branch percentage.
-The minimum requirement of 60% branch coverage was already met, however 90% condition coverage was not met.
+The minimum requirement of condition coverage was already met, however 90% statementnt coverage was not met.
 
-When we analysed our test code coverage using EclEmma, we found that one test case in ExpandToinclude was not covered so to improve the coverage we removed that test case and added null, 10 so that null range is also tested. 
-
-With the addition of this test case, 
-Instructions	
-Branches	
-Lines	
-Methods	
-Complexity	
+When we analysed our test code coverage using EclEmma, we found that few test cases in ExpandToinclude were not covered so to improve the coverage we removed one test case and added null, 10 so that null range is also tested. Also changed lower boundary and upper boundary ranges.
+With the addition of new test cases, 
+| Counter | Coverage |
+|----------|----------|
+| Instructions/statement coverage   | 100%   |
+	
 
 # 5 A detailed report of the coverage achieved of each class and method (a screen shot from the code cover results in green and red color would suffice)
 
