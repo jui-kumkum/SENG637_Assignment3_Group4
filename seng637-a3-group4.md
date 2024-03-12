@@ -47,6 +47,8 @@ With the addition of new test cases,
 
 # 5 A detailed report of the coverage achieved of each class and method (a screen shot from the code cover results in green and red color would suffice)
 ![Alt text](https://github.com/jui-kumkum/SENG637_Assignment3_Group4/blob/main/Images/ExpandToincludeBeforeCoverage.png)
+![Alt text](https://github.com/jui-kumkum/SENG637_Assignment3_Group4/blob/main/Images/expandToincludeAfterCoverageCondition.png)
+![Alt text]()
 
 # 6 Pros and Cons of coverage tools used and Metrics you report
 
